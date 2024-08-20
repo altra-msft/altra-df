@@ -1,0 +1,9 @@
+{
+	"name": "altra-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f941a80f-3134-4a6b-ac38-265cc5cbff87",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
