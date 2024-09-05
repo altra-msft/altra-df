@@ -1,6 +1,7 @@
 {
 	"name": "prod branch pipeline",
 	"properties": {
+		"description": "b",
 		"activities": [
 			{
 				"name": "Wait1",
