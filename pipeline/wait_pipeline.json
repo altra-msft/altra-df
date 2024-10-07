@@ -12,6 +12,16 @@
 				}
 			}
 		],
+		"parameters": {
+			"param1": {
+				"type": "int"
+			}
+		},
+		"variables": {
+			"var1": {
+				"type": "String"
+			}
+		},
 		"annotations": []
 	}
 }
